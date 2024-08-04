@@ -20,3 +20,6 @@ Allow customization options for users. <br>
 Include detailed weather information. <br>
 Incorporate interactive weather maps and radar. <br>
 Ensure multi-platform accessibility. <br>
+
+![hsdjs](https://github.com/user-attachments/assets/51a78c5a-be34-4952-b15a-a1251f174c67)
+
