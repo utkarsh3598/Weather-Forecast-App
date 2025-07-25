@@ -1,4 +1,4 @@
-# CODTECH-Task2
+# Weather Forecast Application
 Name: UTKARSH <br>
 Company: CODTECH IT SOLUTIONS <br>
 ID: CT8WD1210 <br>
